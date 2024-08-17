@@ -1,0 +1,12 @@
+.buttondiv{
+    margin: 10px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.button{
+    border: 1px solid;
+    padding: 6px;
+    width: 51px;
+    margin: 11px;
+}
